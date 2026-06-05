@@ -2,6 +2,9 @@
 
 Om Fin is a mobile-first personal finance manager built with Next.js and Capacitor. It helps users record expenses with low-friction inputs: type a transaction, scan a receipt, or speak naturally in Indonesian. AI turns those inputs into editable transaction items before they are saved to the local finance database.
 
+<img width="412" height="915" alt="Screenshot 2026-06-05 093400" src="https://github.com/user-attachments/assets/f873d126-2937-4186-b1a1-5e7467350171" />
+
+
 ## Features
 
 - Dashboard for monthly balance, spending, budget usage, and category distribution.
